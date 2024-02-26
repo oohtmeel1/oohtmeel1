@@ -27,7 +27,7 @@ They just have to be applied in a way that differs slightly from pen and paper.
 
 # Software and tools
   <a href="#">
-    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img src="[svg/dev/languages/python.svg](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg)" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>  
 
 
