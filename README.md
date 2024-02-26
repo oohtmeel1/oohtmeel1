@@ -26,21 +26,15 @@ $$ \sigma  = \sqrt{\frac{\sum(X-\mu)^2}{N}} $$
 They just have to be applied in a way that differs slightly from pen and paper.
 
 # Software and tools
-  <a href="#">
-    <img src="python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-  </a>  
 
-  <a href="#">
-    <img src="powershell.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-  </a>  
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-  <a href="#">
-    <img src="r.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-  </a> 
 
-  <a href="#">
-    <img src="visualstudio_code.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-  </a> 
 
 
 
