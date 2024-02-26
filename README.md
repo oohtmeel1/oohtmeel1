@@ -16,11 +16,18 @@ print('Hello World!")
 
 And learned how concepts I already understand apply to Software like Python and R.
 
-Data is still looked over with the same types of terms. 
+Data is still looked over with the same types of terms: 
 
 $$ \sigma  = \sqrt{\frac{\sum(X-\mu)^2}{N}} $$
 
 They just have to be applied in a way that differs slightly from pen and paper.
+
+
+## :zap: Recent Activity
+<!--START_SECTION:activity-->
+
+
+<!--END_SECTION:activity-->
 
 
 
