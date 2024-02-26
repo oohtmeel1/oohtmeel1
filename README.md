@@ -6,6 +6,10 @@ Linkedin:
 Resume:
 [![Linkedin](https://drive.google.com/uc?export=view&id=1RkRI4YqT7oR1rutqsdm4c71vq8vQj8EE)](https://resume-agnes-mcfarlin.streamlit.app)
 
+
+# Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 # Background
 
 
@@ -21,6 +25,8 @@ Data is still looked over with the same types of terms:
 $$ \sigma  = \sqrt{\frac{\sum(X-\mu)^2}{N}} $$
 
 They just have to be applied in a way that differs slightly from pen and paper.
+
+# Software and tools
 
 
 
