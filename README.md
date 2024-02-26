@@ -1,37 +1,52 @@
-### Hi there 👋
+# About
+Linkedin:
+[![Linkedin](https://drive.google.com/uc?export=view&id=1f6E-lxqLHT42eVfciyfHex_taS1-Uj7Q)](https://www.linkedin.com/in/agnes-mcfarlin)
 
-I'm James. I love building utilities aimed at increasing Developer productivity :raised_hands: 
 
-🔭 I’m currently working on [MEVN-CLI](https://github.com/madlabsinc/mevn-cli)
+Resume:
+[![Linkedin](https://drive.google.com/uc?export=view&id=1RkRI4YqT7oR1rutqsdm4c71vq8vQj8EE)](https://resume-agnes-mcfarlin.streamlit.app)
 
-📫 How to reach me:
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/james_madhacks) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jamesgeorge007)
 
----
 
-### :zap: Recent Activity
+# Background
 
+
+I started with the simple 
+```<Python>
+print('Hello World!")
+```
+
+And learned how concepts I already understand apply to Software like Python and R.
+
+Data is still looked over with the same types of terms: 
+
+$$ \sigma  = \sqrt{\frac{\sum(X-\mu)^2}{N}} $$
+
+They just have to be applied in a way that differs slightly from pen and paper.
+
+# Software and tools
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+
+
+
+
+
+## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3859](https://github.com/hoppscotch/hoppscotch/pull/3859) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. 💪 Opened PR [#3836](https://github.com/hoppscotch/hoppscotch/pull/3836) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. 💪 Opened PR [#3835](https://github.com/hoppscotch/hoppscotch/pull/3835) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-4. 💪 Opened PR [#3832](https://github.com/hoppscotch/hoppscotch/pull/3832) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-5. 🗣 Commented on [#3780](https://github.com/hoppscotch/hoppscotch/pull/3780#issuecomment-1934509627) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+1. 🗣 Commented on [#4485](https://github.com/SCons/scons/pull/4485#issuecomment-1958385424) in [SCons/scons](https://github.com/SCons/scons)
+2. 💪 Opened PR [#4485](https://github.com/SCons/scons/pull/4485) in [SCons/scons](https://github.com/SCons/scons)
+3. 🎉 Merged PR [#8](https://github.com/Raymo111/Raymo111/pull/8) in [Raymo111/Raymo111](https://github.com/Raymo111/Raymo111)
+4. 🎉 Merged PR [#129](https://github.com/CharaChorder/nexus/pull/129) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+5. 🎉 Merged PR [#126](https://github.com/CharaChorder/nexus/pull/126) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+
 <!--END_SECTION:activity-->
 
----
 
-<!--
-**jamesgeorge007/jamesgeorge007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oohtmeel1)](https://github.com/anuraghazra/github-readme-stats)
