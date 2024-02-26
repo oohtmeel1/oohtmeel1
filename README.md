@@ -26,7 +26,9 @@ $$ \sigma  = \sqrt{\frac{\sum(X-\mu)^2}{N}} $$
 They just have to be applied in a way that differs slightly from pen and paper.
 
 # Software and tools
-
+  <a href="#">
+    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>  
 
 
 
