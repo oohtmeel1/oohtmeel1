@@ -1,50 +1,33 @@
-# About
-Linkedin:
-[![Linkedin](https://drive.google.com/uc?export=view&id=1f6E-lxqLHT42eVfciyfHex_taS1-Uj7Q)](https://www.linkedin.com/in/agnes-mcfarlin)
+### Hi there 👋
 
+I'm James. I love building utilities aimed at increasing Developer productivity :raised_hands: 
 
-Resume:
-[![Linkedin](https://drive.google.com/uc?export=view&id=1RkRI4YqT7oR1rutqsdm4c71vq8vQj8EE)](https://resume-agnes-mcfarlin.streamlit.app)
+🔭 I’m currently working on [MEVN-CLI](https://github.com/madlabsinc/mevn-cli)
 
+📫 How to reach me:
 
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/james_madhacks) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jamesgeorge007)
 
+---
 
-# Background
+### :zap: Recent Activity
 
-
-I started with the simple 
-```<Python>
-print('Hello World!")
-```
-
-And learned how concepts I already understand apply to Software like Python and R.
-
-Data is still looked over with the same types of terms: 
-
-$$ \sigma  = \sqrt{\frac{\sum(X-\mu)^2}{N}} $$
-
-They just have to be applied in a way that differs slightly from pen and paper.
-
-# Software and tools
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-
-
-
-
-
-## :zap: Recent Activity
 <!--START_SECTION:activity-->
-
 
 <!--END_SECTION:activity-->
 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oohtmeel1)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+**jamesgeorge007/jamesgeorge007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
+
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
