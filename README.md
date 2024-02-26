@@ -23,6 +23,8 @@ $$ \sigma  = \sqrt{\frac{\sum(X-\mu)^2}{N}} $$
 They just have to be applied in a way that differs slightly from pen and paper.
 
 
+
+
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
 
