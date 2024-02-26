@@ -8,7 +8,7 @@ Resume:
 
 
 # Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Oohtmeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=oohtmeel1&show_icons=true&theme=radical)
 
 # Background
 
