@@ -7,8 +7,7 @@ Resume:
 [![Linkedin](https://drive.google.com/uc?export=view&id=1RkRI4YqT7oR1rutqsdm4c71vq8vQj8EE)](https://resume-agnes-mcfarlin.streamlit.app)
 
 
-# Stats
-![Oohtmeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=oohtmeel1&show_icons=true&theme=radical)
+
 
 # Background
 
@@ -37,5 +36,7 @@ They just have to be applied in a way that differs slightly from pen and paper.
 
 <!--END_SECTION:activity-->
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oohtmeel1)](https://github.com/anuraghazra/github-readme-stats)
 
 
