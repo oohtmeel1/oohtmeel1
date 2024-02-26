@@ -18,7 +18,7 @@ And learned how concepts I already understand apply to Software like Python and 
 
 Data is still looked over with the same types of terms. 
 
-$ \sigma  = \sqrt{\frac{\sum(X-\mu)^2}{N}} $
+$$ \sigma  = \sqrt{\frac{\sum(X-\mu)^2}{N}} $$
 
 They just have to be applied in a way that differs slightly from pen and paper.
 
