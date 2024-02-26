@@ -30,6 +30,18 @@ They just have to be applied in a way that differs slightly from pen and paper.
     <img src="python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>  
 
+  <a href="#">
+    <img src="powershell.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="r.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  <a href="#">
+    <img src="visualstudio_code.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
 
 
 ## :zap: Recent Activity
