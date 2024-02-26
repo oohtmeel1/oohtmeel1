@@ -38,16 +38,5 @@ They just have to be applied in a way that differs slightly from pen and paper.
 
 
 
-## :zap: Recent Activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#4485](https://github.com/SCons/scons/pull/4485#issuecomment-1958385424) in [SCons/scons](https://github.com/SCons/scons)
-2. 💪 Opened PR [#4485](https://github.com/SCons/scons/pull/4485) in [SCons/scons](https://github.com/SCons/scons)
-3. 🎉 Merged PR [#8](https://github.com/Raymo111/Raymo111/pull/8) in [Raymo111/Raymo111](https://github.com/Raymo111/Raymo111)
-4. 🎉 Merged PR [#129](https://github.com/CharaChorder/nexus/pull/129) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-5. 🎉 Merged PR [#126](https://github.com/CharaChorder/nexus/pull/126) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-
-<!--END_SECTION:activity-->
-
-
 # Languages Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oohtmeel1)](https://github.com/anuraghazra/github-readme-stats)
